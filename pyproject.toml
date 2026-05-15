@@ -8,6 +8,6 @@ license = { file = "LICENSE" }
 Repository = "https://github.com/MosnowLab/ComfyUI-Preset-Switcher"
 
 [tool.comfy]
-PublisherId = "mosnowlab"
+PublisherId = "mosnow"
 DisplayName = "ComfyUI Preset Switcher"
 Icon = ""
