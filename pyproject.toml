@@ -1,0 +1,13 @@
+[project]
+name = "preset-switcher"
+description = "Preset management & switching tool with visual gallery. Save/switch style and LoRA configs. 预设管理与切换工具，带可视化画廊，支持中英文。"
+version = "1.0.0"
+license = { file = "LICENSE" }
+
+[project.urls]
+Repository = "https://github.com/MosnowLab/ComfyUI-Preset-Switcher"
+
+[tool.comfy]
+PublisherId = "mosnowlab"
+DisplayName = "ComfyUI Preset Switcher"
+Icon = ""
