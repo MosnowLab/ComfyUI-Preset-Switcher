@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+presets/*.json
+presets/images/*
+!presets/images/.gitkeep
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+# No additional Python packages required.
+# ComfyUI core dependencies are sufficient.
