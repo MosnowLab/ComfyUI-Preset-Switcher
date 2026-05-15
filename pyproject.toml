@@ -1,7 +1,7 @@
 [project]
 name = "preset-switcher"
 description = "Preset management & switching tool with visual gallery. Save/switch style and LoRA configs. 预设管理与切换工具，带可视化画廊，支持中英文。"
-version = "1.0.1"
+version = "1.0.2"
 license = { file = "LICENSE" }
 
 [project.urls]
